@@ -33,7 +33,7 @@ function FooterSection({ isInvitation }) {
               <p>Info & Pemesanan (klik nomor berikut):<br /><a rel='noreferrer' target='_blank' href="https://wa.me/+6285878565493">0858-7856-5493</a><br/>An. Mala Oktavia Sari</p>
               <hr />
               <p>
-                <small className="block">Copyright &copy; 2023 - Almira Digital Printing.<br />Part of Inovasi Aktif. All Rights Reserved.</small>
+                <small className="block">Copyright &copy; 2023 - Almira Digital Printing.<br />Inovasi Aktif. All Rights Reserved.</small>
               </p>
             </div>
           </div>
