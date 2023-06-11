@@ -1,5 +1,5 @@
 import { css, keyframes } from '@emotion/core';
-import Background from '@assets/images/bg-welcome.webp';
+import Background from '@assets/images/bg-welcome.jpg';
 
 export const styHero = css`
   width: 100%;
@@ -153,7 +153,7 @@ export const styBackground = css`
 
 export const styWrapper = css`
   color: #fff;
-  margin-top: -8em;
+  margin-top: -6em;
 
   img {
     max-width: 80px;
@@ -230,7 +230,7 @@ export const styWrapperCount = css`
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(241, 78, 149, 0.8);
+  background: rgba(241, 78, 149, 0.5);
   margin: 8px;
   border-radius: 50%;
   position: relative;
@@ -271,7 +271,7 @@ export const styWrapperCount = css`
 `;
 
 export const styMargin = (px) => css`
-  margin: ${px};
+  margin-top: 257px;
 `;
 
 export const styButtonWrapper = css`
