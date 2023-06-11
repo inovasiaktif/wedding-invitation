@@ -30,26 +30,10 @@ function FooterSection({ isInvitation }) {
         <div className="container">
           <div className="row copyright">
             <div className="col-md-12 text-center">
+              <p>Info & Pemesanan (klik nomor berikut):<br /><a rel='noreferrer' target='_blank' href="https://wa.me/+6285878565493">0858-7856-5493</a><br/>An. Mala Oktavia Sari</p>
+              <hr />
               <p>
-                <small className="block">&copy; 2020 Mala & Robi Wedding. All Rights Reserved.</small>
-                <small className="block">
-                  Covid-19 Icon by{' '}
-                  <a href="https://www.flaticon.com/packs/covid-protection-measures-5" target="_blank" rel="noreferrer">
-                    Flat Icon - Frepik
-                  </a>
-                </small>
-                <small className="block">
-                  Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
-                  </a>
-                </small>
-                <small className="block">
-                  Original Template from{' '}
-                  <a href="http://freehtml5.co/" target="_blank" rel="noreferrer">
-                    FREEHTML5.co
-                  </a>
-                </small>
+                <small className="block">Copyright &copy; 2023 - Almira Digital Printing<br/>All Rights Reserved.</small>
               </p>
             </div>
           </div>
