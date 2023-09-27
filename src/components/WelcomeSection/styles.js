@@ -153,11 +153,11 @@ export const styBackground = css`
 
 export const styWrapper = css`
   color: #fff;
-  margin-top: -6em;
+  margin-top: -4em;
 
   img {
-    max-width: 80px;
-    margin-bottom: 24px;
+    max-width: 50px;
+    margin-bottom: 10px;
   }
 
   h1 {
@@ -271,7 +271,7 @@ export const styWrapperCount = css`
 `;
 
 export const styMargin = (px) => css`
-  margin-top: 225px;
+  margin-top: 300px;
   margin-bottom: 70px;
 `;
 

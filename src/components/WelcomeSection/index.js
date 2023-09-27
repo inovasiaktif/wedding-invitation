@@ -69,9 +69,9 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
         <div className="container">
           <div className="row" css={styWrapper}>
             <div className="col-md-8 col-md-offset-2 text-center">
-              <img src={WeddingImg} alt="wedding-dinda-indra" />
+              <img src={WeddingImg} alt="wedding-imas-fathur" />
               <h4 className="sub-title">The Wedding of</h4>
-              <h1 className="title">Mala &amp; Robi</h1>
+              <h1 className="title">Imas &amp; Fathur</h1>
               <div className={isAnonymGuest ? 'margin__bottom' : ''}>
                 <CountContainer />
               </div>

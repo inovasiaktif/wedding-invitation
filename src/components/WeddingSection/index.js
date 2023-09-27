@@ -23,14 +23,14 @@ function WeddingSection({ isInvitation }) {
                 <WeddingInfoBox
                   title="Akad Nikah"
                   time="09.00 WIB"
-                  date="Minggu, 09 Juli 2023"
-                  description="Masjid Al-Munawaroh<br />Desa Parereja, Kec. Banjarharjo, Kab. Brebes"
+                  date="Minggu, 22 Oktober 2023"
+                  description="Masjid Al-Munawaroh<br />Desa Parereja"
                 />
                 <WeddingInfoBox
                   title="Resepsi"
                   time="09.00 WIB - Selesai"
-                  date="Minggu - Senin, 09 - 10 Juli 2023"
-                  description="Kediaman Mempelai Wanita<br />Desa Parereja  RT. 01 RW. 02, Blok Lapang, Kec. Banjarharjo, Kab. Brebes"
+                  date="Minggu - Senin, 22 - 23 Oktober 2023"
+                  description="Rumah mempelai Prempuan ( Gang Tratai, desa Parereja rt 01 rw 02 kec banjarharjo )"
                 />
               </div>
             )}

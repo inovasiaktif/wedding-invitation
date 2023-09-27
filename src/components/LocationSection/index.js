@@ -21,7 +21,7 @@ function LocationSection() {
                   <strong>Kediaman Mempelai Wanita</strong>
                 </a>{' '}
                 <br />
-                <span>Blok Lapang<br />Desa Parereja  RT. 01 RW. 02<br/>
+                <span>Gang Tratai<br />Desa Parereja  RT. 01 RW. 02<br/>
                 Kec. Banjarharjo
                 Kab. Brebes</span>
               </p>
@@ -38,7 +38,7 @@ function LocationSection() {
                 allowFullScreen
                 aria-hidden="false"
                 tabIndex="0"
-                title="Google Maps - Mala & Robi Wedding Party"
+                title="Google Maps - Imas & Fathur Wedding Party"
               ></iframe>
             </div>
           </div>
