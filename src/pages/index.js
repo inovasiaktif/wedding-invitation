@@ -15,7 +15,7 @@ import FloatingMusic from '@components/FloatingMusic/Loadable';
 
 function Home({ location }) {
   const guestName = decodeURIComponent(getQueryValue(location, 'to') || '');
-  const isInvitation = "invitation";
+  const isInvitation = true;
   const isAnonymGuest = guestName === '' && !isInvitation;
   const codeLink = getQueryValue(location, 'code') || '';
   const finalTicketLink = `code=${codeLink}&name=${guestName}`;

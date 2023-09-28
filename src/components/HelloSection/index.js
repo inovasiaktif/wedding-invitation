@@ -46,7 +46,7 @@ function HelloSection({ isInvitation }) {
               <div className="desc-bride">
                 <h3 className="main-font">Muhammad Fathur Rahman (Fathur)</h3>
                 <p className="parent-name">
-                  Putra Bpk Ujang Suherman,S.Pd & Ibu Rolillah,S.Pd.I<br />Desa Karang Sari, Kec Cikarang timur, Kab Bekasi
+                  Putra Bpk Ujang Suherman,S.Pd & Ibu Rolihah,S.Pd.I<br />Desa Karang Sari, Kec Cikarang timur, Kab Bekasi
                 </p>
               </div>
             </div>
